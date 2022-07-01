@@ -1,0 +1,1 @@
+print("este es mi primer programa 1 de enero de 2022")
